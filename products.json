@@ -8,7 +8,7 @@
     "status": "Disponible",
     "description": "Bolso especial con diseño delicado y tonos suaves.",
     "images": [
-      "https://via.placeholder.com/400x400?text=Producto+1"
+      "hello-kitty-1.jpg.jpeg"
     ]
   },
   {
@@ -20,7 +20,7 @@
     "status": "Disponible",
     "description": "Pieza especial con diseño floral y estilo encantador.",
     "images": [
-      "https://via.placeholder.com/400x400?text=Producto+2"
+      "pooh-1.jpg.jpeg"
     ]
   },
   {
@@ -32,7 +32,7 @@
     "status": "Últimas piezas",
     "description": "Mochila original con diseño temático muy especial.",
     "images": [
-      "https://via.placeholder.com/400x400?text=Producto+3"
+      "minnie-1.jpg.jpeg"
     ]
   }
 ]
