@@ -101,9 +101,11 @@ body {
 }
 
 .btn-primary {
-  background: #c1273d;
+  background: #b55239;
   color: white;
+  border: none;
 }
+
 
 .btn-secondary {
   border: 1px solid #c9c9c9;
@@ -347,4 +349,18 @@ body {
   text-decoration: none;
   color: #444;
   font-weight: 500;
+}
+.btn-whatsapp {
+  display: inline-block;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  background: #22c55e;
+  color: white;
+  border: none;
+}
+
+.btn-whatsapp:hover {
+  background: #16a34a;
 }
