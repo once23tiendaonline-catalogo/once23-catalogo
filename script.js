@@ -20,7 +20,7 @@ async function loadProducts() {
           <div class="price">$${product.price} MXN</div>
           <div class="status">${product.status}</div>
           <p>${product.description}</p>
-          <a class="btn btn-primary" target="_blank" href="https://wa.me/525535094588?text=Hola,%20me%20interesa%20este%20producto%20de%20Once23:%20${encodeURIComponent(product.name)}.%20%C2%BFSigue%20disponible?">Pedir por WhatsApp</a>
+          <a class="btn btn-whatsapp" target="_blank" href="https://wa.me/525535094588?text=Hola,%20me%20interesa%20este%20producto%20de%20Once23:%20${encodeURIComponent(product.name)}.%20%C2%BFSigue%20disponible?">Comprar por WhatsApp</a>
         `;
 
         productGrid.appendChild(card);
