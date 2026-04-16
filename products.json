@@ -1,1 +1,38 @@
-
+[
+  {
+    "id": 1,
+    "name": "Bolso bandolera Sanrio Hello Kitty and Friends Cherry Blossom",
+    "price": 2200,
+    "category": "Bolsas y accesorios",
+    "stock": 3,
+    "status": "Disponible",
+    "description": "Bolso especial con diseño delicado y tonos suaves.",
+    "images": [
+      "https://via.placeholder.com/400x400?text=Producto+1"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bolso Loungefly Disney Winnie the Pooh con estampado floral a cuadros",
+    "price": 2200,
+    "category": "Bolsas y accesorios",
+    "stock": 3,
+    "status": "Disponible",
+    "description": "Pieza especial con diseño floral y estilo encantador.",
+    "images": [
+      "https://via.placeholder.com/400x400?text=Producto+2"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mochila pequeña Loungefly Disney Minnie Mouse con orejas de piruleta de chocolate",
+    "price": 2200,
+    "category": "Novedades",
+    "stock": 1,
+    "status": "Últimas piezas",
+    "description": "Mochila original con diseño temático muy especial.",
+    "images": [
+      "https://via.placeholder.com/400x400?text=Producto+3"
+    ]
+  }
+]
