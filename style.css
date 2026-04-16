@@ -33,8 +33,10 @@ body {
 }
 
 .logo span {
-  font-size: 1.6rem;
-  font-weight: bold;
+.logo-img {
+  height: 52px;
+  width: auto;
+  display: block;
 }
 
 .menu {
