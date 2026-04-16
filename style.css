@@ -377,3 +377,40 @@ body {
   width: auto;
   display: block;
 }
+.group-section {
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.group-icon {
+  width: 74px;
+  height: 74px;
+  border-radius: 50%;
+  background: #f3eeee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  margin: 0 auto 22px;
+}
+
+.group-section h2 {
+  font-size: clamp(2rem, 4vw, 3.3rem);
+  margin-bottom: 16px;
+  color: #2b2b2b;
+}
+
+.group-section p {
+  max-width: 760px;
+  margin: 0 auto 28px;
+  color: #666;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.group-btn {
+  border-radius: 999px;
+  padding: 14px 34px;
+  font-size: 1.05rem;
+}
