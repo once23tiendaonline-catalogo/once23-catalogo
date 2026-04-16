@@ -1,1 +1,143 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Once23 | Catálogo</title>
+  <meta name="description" content="Catálogo web de Once23 para mostrar productos, novedades y ofertas, con atención y cierre de compra por WhatsApp." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="container nav">
+      <div class="logo">
+        <span>Once23</span>
+      </div>
 
+      <nav class="menu">
+        <a href="#inicio">Inicio</a>
+        <a href="#catalogo">Catálogo</a>
+        <a href="#novedades">Novedades</a>
+        <a href="#dulces">Dulces y snacks</a>
+        <a href="#ofertas">Ofertas</a>
+        <a href="#como-comprar">Cómo comprar</a>
+        <a href="#faq">Preguntas frecuentes</a>
+        <a href="#contacto">Contacto</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="inicio" class="hero">
+      <div class="container hero-content">
+        <p class="eyebrow">Once23</p>
+        <h1>Una selección de piezas especiales, descubrimientos y favoritos del mundo, elegidos para llegar hasta ti.</h1>
+        <p class="subtext">
+          Encuentra productos disponibles, oportunidades especiales y atención personalizada por WhatsApp.
+        </p>
+
+        <div class="hero-buttons">
+          <a class="btn btn-primary" href="#catalogo">Ver catálogo</a>
+          <a class="btn btn-secondary" href="https://wa.me/525535094588?text=Hola,%20vi%20el%20cat%C3%A1logo%20de%20Once23%20y%20me%20gustar%C3%ADa%20recibir%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20productos." target="_blank">Comprar por WhatsApp</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="trust">
+      <div class="container trust-grid">
+        <div class="trust-item">Productos originales</div>
+        <div class="trust-item">Atención directa por WhatsApp</div>
+        <div class="trust-item">Envíos en México</div>
+        <div class="trust-item">Mayoreo en algunos productos</div>
+      </div>
+    </section>
+
+    <section id="novedades" class="simple-section">
+      <div class="container">
+        <h2>Novedades</h2>
+        <p>Productos especiales y recién agregados al catálogo.</p>
+      </div>
+    </section>
+
+    <section id="dulces" class="simple-section alt-bg">
+      <div class="container">
+        <h2>Dulces y snacks</h2>
+        <p>Descubre productos importados, curiosos y difíciles de encontrar.</p>
+      </div>
+    </section>
+
+    <section id="ofertas" class="simple-section">
+      <div class="container">
+        <h2>Ofertas</h2>
+        <p>Aprovecha piezas seleccionadas con precio especial.</p>
+      </div>
+    </section>
+
+    <section id="catalogo" class="catalogo-section">
+      <div class="container">
+        <div class="section-head">
+          <h2>Catálogo</h2>
+          <input type="text" id="searchInput" placeholder="Buscar producto..." />
+        </div>
+
+        <div id="productGrid" class="product-grid"></div>
+      </div>
+    </section>
+
+    <section id="como-comprar" class="simple-section alt-bg">
+      <div class="container">
+        <h2>Cómo comprar</h2>
+        <div class="steps">
+          <div class="step">1. Elige tu producto</div>
+          <div class="step">2. Escríbenos por WhatsApp</div>
+          <div class="step">3. Confirmamos disponibilidad, pago y envío</div>
+          <div class="step">4. Coordinamos entrega o envío</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="simple-section">
+      <div class="container">
+        <h2>Únete a nuestro grupo de WhatsApp</h2>
+        <p>Te dejamos el enlace para unirte a nuestro grupo, donde subimos productos en vivo desde las tiendas.</p>
+        <a class="btn btn-primary" href="https://chat.whatsapp.com/IpgM1laqOHGDCvUnV0lJGb?mode=gi_t" target="_blank">Unirme al grupo</a>
+      </div>
+    </section>
+
+    <section id="faq" class="simple-section alt-bg">
+      <div class="container">
+        <h2>Preguntas frecuentes</h2>
+        <div class="faq-list">
+          <div>¿Cómo compro?</div>
+          <div>¿Hacen envíos?</div>
+          <div>¿Puedo apartar?</div>
+          <div>¿Qué significa por encargo?</div>
+          <div>¿Tienen mayoreo?</div>
+          <div>¿Cómo me uno al grupo de WhatsApp?</div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contacto" class="simple-section">
+      <div class="container">
+        <h2>Contacto</h2>
+        <p>Escríbenos para comprar, preguntar por mayoreo o revisar productos disponibles.</p>
+
+        <div class="contact-links">
+          <a href="https://wa.me/525535094588?text=Hola,%20vi%20la%20p%C3%A1gina%20de%20Once23%20y%20quiero%20m%C3%A1s%20informaci%C3%B3n." target="_blank">WhatsApp</a>
+          <a href="mailto:once23.tiendaonline@gmail.com">once23.tiendaonline@gmail.com</a>
+          <a href="https://www.facebook.com/share/19VA4zNXCS/?mibextid=wwXIfr" target="_blank">Facebook</a>
+          <a href="https://www.instagram.com/once23_tiendaonline?igsh=dTVqbGxpdHExMTA1&utm_source=qr" target="_blank">Instagram</a>
+          <a href="https://www.tiktok.com/@once23_tiendaonline?_r=1&_t=ZS-95ZPN6H9tKP" target="_blank">TikTok</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <a class="floating-whatsapp" href="https://wa.me/525535094588?text=Hola,%20vi%20la%20p%C3%A1gina%20de%20Once23%20y%20quiero%20m%C3%A1s%20informaci%C3%B3n." target="_blank">
+    WhatsApp
+  </a>
+
+  <script src="script.js"></script>
+</body>
+</html>
