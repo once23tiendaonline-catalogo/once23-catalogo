@@ -259,3 +259,16 @@ body {
     padding: 60px 0;
   }
 }
+.btn-whatsapp {
+  display: inline-block;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  background: #25d366;
+  color: white;
+}
+
+.btn-whatsapp:hover {
+  background: #1ebe5d;
+}
