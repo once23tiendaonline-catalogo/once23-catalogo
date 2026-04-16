@@ -171,24 +171,31 @@ body {
 }
 
 .product-card {
-  background: white;
-  border-radius: 10px;
+  background: #ffffff;
+  border-radius: 14px;
   padding: 18px;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.06);
+  border: 1px solid #ececec;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
+.product-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 30px rgba(0,0,0,0.08);
+}
 .product-card img {
   width: 100%;
-  height: 240px;
+  height: 260px;
   object-fit: cover;
-  border-radius: 8px;
+  border-radius: 12px;
   margin-bottom: 14px;
-  background: #eee;
+  background: #ededed;
 }
 
 .product-card h3 {
-  font-size: 1.05rem;
+  font-size: 1.02rem;
   margin-bottom: 8px;
+  line-height: 1.35;
 }
 
 .product-card p {
@@ -198,18 +205,20 @@ body {
 }
 
 .price {
-  font-weight: bold;
+  font-weight: 700;
   color: #111;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
+  font-size: 1.05rem;
 }
 
 .status {
   display: inline-block;
-  font-size: 0.85rem;
-  padding: 4px 10px;
-  border-radius: 20px;
-  background: #eee;
+  font-size: 0.82rem;
+  padding: 5px 10px;
+  border-radius: 999px;
+  background: #f0f0f0;
   margin-bottom: 12px;
+  color: #444;
 }
 
 .steps,
