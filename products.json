@@ -8,7 +8,7 @@
     "status": "Disponible",
     "description": "Bolso especial con diseño delicado y tonos suaves.",
     "images": [
-      "hello-kitty-1.jpg.jpeg"
+      "nuevo-hello-kitty-1.jpg"
     ]
   },
   {
@@ -20,19 +20,235 @@
     "status": "Disponible",
     "description": "Pieza especial con diseño floral y estilo encantador.",
     "images": [
-      "pooh-1.jpg.jpeg"
+      "nuevo-pooh-cuadros-1.jpg"
     ]
   },
   {
     "id": 3,
+    "name": "Bolso bandolera Loungefly Disney Winnie the Pooh con figura de libro",
+    "price": 2200,
+    "category": "Nuevo",
+    "stock": 3,
+    "status": "Disponible",
+    "description": "Diseño temático especial de Winnie the Pooh.",
+    "images": [
+      "nuevo-pooh-libro-1.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bolso tote Loungefly Disney Los Aristogatos de Corduroy Marie",
+    "price": 1900,
+    "category": "Nuevo",
+    "stock": 3,
+    "status": "Disponible",
+    "description": "Bolso tote con diseño especial de Marie.",
+    "images": [
+      "nuevo-marie-1.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Cartera Loungefly Disney Alicia en el País de las Maravillas con estampado floral del Gato de Cheshire",
+    "price": 1300,
+    "category": "Nuevo",
+    "stock": 3,
+    "status": "Disponible",
+    "description": "Cartera compacta con estampado floral y diseño especial.",
+    "images": [
+      "nuevo-alicia-cartera-1.jpg"
+    ]
+  },
+  {
+    "id": 6,
     "name": "Mochila pequeña Loungefly Disney Minnie Mouse con orejas de piruleta de chocolate",
     "price": 2200,
     "category": "Nuevo",
     "stock": 1,
-    "status": "Últimas piezas",
+    "status": "Última pieza",
     "description": "Mochila original con diseño temático muy especial.",
     "images": [
-      "minnie-1.jpg.jpeg"
+      "nuevo-minnie-chocolate-1.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mochila pequeña Loungefly Disney Alicia en el País de las Maravillas con estampado floral",
+    "price": 2200,
+    "category": "Nuevo",
+    "stock": 3,
+    "status": "Disponible",
+    "description": "Mochila floral inspirada en Alicia en el País de las Maravillas.",
+    "images": [
+      "nuevo-alicia-floral-1.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Jarrón con forma de bota de vaquera de las Princesas Disney",
+    "price": 950,
+    "category": "Nuevo",
+    "stock": 3,
+    "status": "Disponible",
+    "description": "Jarrón decorativo con diseño original de Princesas Disney.",
+    "images": [
+      "nuevo-jarron-bota-1.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Mochila pequeña Loungefly Disney Lilo & Stitch con estampado de Stitch en tonos a juego",
+    "price": 2200,
+    "category": "Nuevo",
+    "stock": 3,
+    "status": "Disponible",
+    "description": "Mochila especial de Stitch con acabado temático.",
+    "images": [
+      "nuevo-stitch-mochila-1.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Macarrones con queso CHEETOS FLAMIN' HOT",
+    "price": 120,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Macarrones importados con sabor picante.",
+    "images": [
+      "dulces-cheetos-flamin-hot-1.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Macarrones con queso CHEETOS con mucho queso y jalapeño",
+    "price": 120,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Macarrones con queso y un toque de jalapeño.",
+    "images": [
+      "dulces-cheetos-jalapeno-1.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Macarrones con queso CHEETOS con mucho sabor y mucho queso",
+    "price": 120,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Versión con mucho queso y sabor intenso.",
+    "images": [
+      "dulces-cheetos-mucho-queso-1.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "MrBeast Feastables Galaxy edición limitada",
+    "price": 100,
+    "category": "Dulces y snacks",
+    "stock": 10,
+    "status": "Disponible",
+    "description": "Barra de chocolate crujiente de cacao edición limitada.",
+    "images": [
+      "dulces-feastables-galaxy-1.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Caramelos de goma Nerds Gummy Clusters Rainbow",
+    "price": 180,
+    "category": "Dulces y snacks",
+    "stock": 10,
+    "status": "Disponible",
+    "description": "Caramelos de goma Nerds sabor rainbow.",
+    "images": [
+      "dulces-nerds-rainbow-1.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Caramelos de goma Nerds Gummy Clusters Very Berry",
+    "price": 180,
+    "category": "Dulces y snacks",
+    "stock": 10,
+    "status": "Disponible",
+    "description": "Caramelos de goma Nerds sabor Very Berry.",
+    "images": [
+      "dulces-nerds-very-berry-1.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Taza de Disney con alas de Campanilla de Peter Pan",
+    "price": 750,
+    "category": "Hogar",
+    "stock": 3,
+    "status": "Disponible",
+    "description": "Taza temática de Campanilla con diseño especial.",
+    "images": [
+      "hogar-taza-campanilla-1.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Juego de recipientes de almacenamiento con diseño de Aristocats de Disney",
+    "price": 1200,
+    "category": "Hogar",
+    "stock": 3,
+    "status": "Disponible",
+    "description": "Juego de recipientes decorativos resistentes a la cera.",
+    "images": [
+      "hogar-recipientes-aristocats-1.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Lámpara de escritorio articulada del Halcón Milenario de Star Wars",
+    "price": 1500,
+    "category": "Hogar",
+    "stock": 5,
+    "status": "Disponible",
+    "description": "Lámpara decorativa articulada inspirada en Star Wars.",
+    "images": [
+      "hogar-lampara-halcon-1.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Juego de taza y platillo de béisbol de Mickey Mouse de Disney",
+    "price": 950,
+    "category": "Hogar",
+    "stock": 3,
+    "status": "Disponible",
+    "description": "Juego especial de taza y platillo con diseño de Mickey.",
+    "images": [
+      "hogar-taza-mickey-beisbol-1.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Lilo & Stitch los patitos – bolso bandolera Disney Loungefly",
+    "price": 1500,
+    "category": "Ofertas",
+    "stock": 1,
+    "status": "Última pieza",
+    "description": "Bolso bandolera Loungefly con precio especial.",
+    "images": [
+      "ofertas-lilo-stitch-patitos-1.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Mini Mochila Loungefly Disney Friendship Day The Sensational Six",
+    "price": 1800,
+    "category": "Ofertas",
+    "stock": 1,
+    "status": "Última pieza",
+    "description": "Mini mochila especial en promoción.",
+    "images": [
+      "ofertas-sensational-six-1.jpg"
     ]
   }
 ]
