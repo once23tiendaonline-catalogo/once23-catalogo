@@ -48,7 +48,7 @@
     ]
   },
   {
-   "id": 5,
+    "id": 5,
     "name": "Cartera Loungefly Disney Alicia en el País de las Maravillas con estampado floral del Gato de Cheshire",
     "price": 1300,
     "category": "Nuevo",
@@ -56,7 +56,7 @@
     "status": "Disponible",
     "description": "Cartera compacta con estampado floral y diseño especial.",
     "images": [
-      "nuevo-alicia-cartera-1.jpg"
+      "nuevo-alicia-cartera-1.jpgpng"
     ]
   },
   {
@@ -68,7 +68,7 @@
     "status": "Última pieza",
     "description": "Mochila original con diseño temático muy especial.",
     "images": [
-      "nuevo-minnie-chocolate-1.jpg"
+      "nuevo-minnie-chocolate-1.jpg.png"
     ]
   },
   {
@@ -80,19 +80,19 @@
     "status": "Disponible",
     "description": "Mochila floral inspirada en Alicia en el País de las Maravillas.",
     "images": [
-      "nuevo-alicia-floral-1.jpg"
+      "nuevo-alicia-floral-1.jpg.png"
     ]
   },
   {
     "id": 8,
     "name": "Jarrón con forma de bota de vaquera de las Princesas Disney",
     "price": 950,
-    "category": "hogar",
+    "category": "Nuevo",
     "stock": 3,
     "status": "Disponible",
     "description": "Jarrón decorativo con diseño original de Princesas Disney.",
     "images": [
-      "hogar-jarron-bota-1.jpg"
+      "nuevo-jarron-bota-1.jpg"
     ]
   },
   {
@@ -140,7 +140,7 @@
     "status": "Disponible",
     "description": "Versión con mucho queso y sabor intenso.",
     "images": [
-      "dulces-cheetos-mucho-queso-1.jpg"
+      "dulces-cheetos-mucho-queso-1.jpg.png"
     ]
   },
   {
