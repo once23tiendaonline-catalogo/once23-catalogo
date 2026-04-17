@@ -322,5 +322,41 @@
     "images": [
       "dulces-refrescos-fanta-xbox-1.jpg.jpeg"
     ]
+  },
+  {
+    "id": 28,
+    "name": "Galletas de canela Scooby-Doo! de Kellogg - 312 g",
+    "price": 150,
+    "category": "Dulces y snacks",
+    "stock": 30,
+    "status": "Disponible",
+    "description": "Galletas de canela Scooby-Doo! de Kellogg de 312 g.",
+    "images": [
+      "dulces-Galletas-scoobyDoo-312g-1.jpg.jpeg"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Galletas de canela Scooby-Doo! de Kellogg - 340 g / 12 unidades",
+    "price": 270,
+    "category": "Dulces y snacks",
+    "stock": 10,
+    "status": "Disponible",
+    "description": "Caja de 12 unidades de galletas de canela Scooby-Doo! de Kellogg.",
+    "images": [
+      "dulces-Galletas-scoobyDoo-12packs-1.jpg.jpeg"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Cajas de jugo Kool-Aid Jammers sabor ponche tropical - Paquete de 10 bolsitas de 6 onzas líquidas",
+    "price": 140,
+    "category": "Dulces y snacks",
+    "stock": 5,
+    "status": "Disponible",
+    "description": "Caja de jugo Kool-Aid Jammers sabor ponche tropical con 10 bolsitas.",
+    "images": [
+      "dulces-jugos-koolAid-ponchetropical-1.jpg.jpeg"
+    ]
   }
 ]
