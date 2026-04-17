@@ -358,5 +358,186 @@
     "images": [
       "dulces-jugos-koolAid-ponchetropical-1.jpg.jpeg"
     ]
+  },
+  {
+    "id": 31,
+    "name": "Papas fritas Lay's Clásicas - 8 oz",
+    "price": 150,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's clásicas de 8 oz.",
+    "images": [
+      "dulces-papas-lays-clasica-1.jpg"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Papas fritas Lay's sabor barbacoa - 222 g",
+    "price": 150,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's sabor barbacoa de 222 g.",
+    "images": [
+      "dulces-papas-lays-barbecue-1.jpg"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Papas fritas Lay's Onduladas Originales - 222 g",
+    "price": 150,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's onduladas originales de 222 g.",
+    "images": [
+      "dulces-papas-lays-wavyoriginal-1.jpg"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Papas fritas Lay's sabor barbacoa a mezquite, cocinadas en olla - 227 g",
+    "price": 150,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's sabor barbacoa a mezquite, cocinadas en olla, de 227 g.",
+    "images": [
+      "dulces-papas-lays-mesquitebbq-1.jpg"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Papas fritas Lay's Originales Horneadas - 174 g",
+    "price": 190,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's originales horneadas de 174 g.",
+    "images": [
+      "dulces-papas-lays-baked-1.jpg"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Papas fritas Lay's sabor crema agria y cebolla - 222 g",
+    "price": 150,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's sabor crema agria y cebolla de 222 g.",
+    "images": [
+      "dulces-papas-lays-cream&onion-1.jpg"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Papas fritas Lay's sabor sal y vinagre - 222 g",
+    "price": 150,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's sabor sal y vinagre de 222 g.",
+    "images": [
+      "dulces-papas-lays-salt&vinegar-1.jpg"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Papas fritas Lay's sabor limón - 222 g",
+    "price": 150,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's sabor limón de 222 g.",
+    "images": [
+      "dulces-papas-lays-limon-1.jpg"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Papas fritas Lay's sabor pepinillos encurtidos - 222 g",
+    "price": 150,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's sabor pepinillos encurtidos de 222 g.",
+    "images": [
+      "dulces-papas-lays-dillpickle-1.jpg"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Papas fritas Lay's Classic tamaño familiar - 368 g",
+    "price": 200,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's Classic tamaño familiar de 368 g.",
+    "images": [
+      "dulces-papas-lays-partysize-1.jpg"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Papas fritas Lay's sabor Flamin' Hot - 222 g",
+    "price": 150,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's sabor Flamin' Hot de 222 g.",
+    "images": [
+      "dulces-papas-lays-flaminHot-1.jpg"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Papas fritas Lay's Onduladas Originales Tamaño Fiesta - 368 g",
+    "price": 200,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's onduladas originales tamaño fiesta de 368 g.",
+    "images": [
+      "dulces-papas-lays-wavyonduladas-1.jpg"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Papas fritas Lay's Clásicas Ligeramente Saladas - 222 g",
+    "price": 150,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's clásicas ligeramente saladas de 222 g.",
+    "images": [
+      "dulces-papas-lays-lightly-1.jpg"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Papas fritas Lay's horneadas con sabor a barbacoa - 174 g",
+    "price": 190,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's horneadas con sabor a barbacoa de 174 g.",
+    "images": [
+      "dulces-papas-lays-bakedBBQ-1.jpg"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Papas fritas Lay's sabor chile y limón - 222 g",
+    "price": 150,
+    "category": "Dulces y snacks",
+    "stock": 20,
+    "status": "Disponible",
+    "description": "Papas fritas Lay's sabor chile y limón de 222 g.",
+    "images": [
+      "dulces-papas-lays-chilelimon-1.jpg"
+    ]
   }
 ]
+
