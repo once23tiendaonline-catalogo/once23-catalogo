@@ -298,5 +298,29 @@
     "images": [
       "dulces-cheetos-crunchy-limon-1.jpg.jpeg"
     ]
+  },
+  {
+    "id": 26,
+    "name": "Refrescos Mountain Dew, latas de 12 fl oz (paquete de 12)",
+    "price": 280,
+    "category": "Dulces y snacks",
+    "stock": 4,
+    "status": "Disponible",
+    "description": "Paquete de 12 latas de Mountain Dew de 12 fl oz.",
+    "images": [
+      "dulces-refrescos-mountain-dew-1.jpg.jpeg"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Refresco Fanta de naranja - Paquete de 12 latas de 355 ml (12 onzas líquidas) - Edición limitada",
+    "price": 280,
+    "category": "Dulces y snacks",
+    "stock": 4,
+    "status": "Disponible",
+    "description": "Paquete de 12 latas de Fanta de naranja edición limitada.",
+    "images": [
+      "dulces-refrescos-fanta-xbox-1.jpg.jpeg"
+    ]
   }
 ]
