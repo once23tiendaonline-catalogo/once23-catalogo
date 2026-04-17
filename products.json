@@ -250,17 +250,17 @@
     "images": [
       "ofertas-sensational-six-1.jpg"
     ]
+  },
+  {
+    "id": 22,
+    "name": "Cheetos Crunchy Flamin Hot - 8.5oz",
+    "price": 180,
+    "category": "Dulces y snacks",
+    "stock": 50,
+    "status": "Disponible",
+    "description": "Botana importada Cheetos Crunchy Flamin Hot de 8.5 oz.",
+    "images": [
+      "dulces-cheetos-crunchy-hot-1.jpg.jpeg"
+    ]
   }
 ]
-{
-  "id": 22,
-  "name": "Cheetos Crunchy Flamin Hot - 8.5oz",
-  "price": 180,
-  "category": "Dulces y snacks",
-  "stock": 50,
-  "status": "Disponible",
-  "description": "Botana importada Cheetos Crunchy Flamin Hot de 8.5 oz.",
-  "images": [
-    "dulces-cheetos-crunchy-hot-1.jpg.jpeg"
-  ]
-}
