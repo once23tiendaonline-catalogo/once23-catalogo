@@ -17,9 +17,10 @@
       <nav class="menu">
         <a href="#inicio">Inicio</a>
         <a href="#catalogo">Catálogo</a>
-        <a href="#novedades">Novedades</a>
-        <a href="#dulces">Dulces y snacks</a>
-        <a href="#ofertas">Ofertas</a>
+        <a href="#nuevo">Nuevo</a>
+<a href="#dulces">Dulces y snacks</a>
+<a href="#hogar">Hogar</a>
+<a href="#ofertas">Ofertas</a>
         <a href="#como-comprar">Cómo comprar</a>
         <a href="#faq">Preguntas frecuentes</a>
         <a href="#contacto">Contacto</a>
@@ -41,7 +42,7 @@
         </p>
 
         <div class="hero-buttons">
-          <a class="btn btn-primary" href="#catalogo">Ver catálogo</a>
+          <a class="btn btn-primary" href="#nuevo">Ver catálogo</a>
          <a class="btn btn-whatsapp" href="https://wa.me/525535094588?text=Hola,%20vi%20el%20cat%C3%A1logo%20de%20Once23%20y%20me%20gustar%C3%ADa%20recibir%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20productos." target="_blank">Comprar por WhatsApp</a>
          <a class="btn btn-whatsapp" href="https://chat.whatsapp.com/IpgM1laqOHGDCvUnV0lJGb?mode=gi_t" target="_blank">Unirme al grupo</a>
         </div>
@@ -57,34 +58,37 @@
       </div>
     </section>
 
-    <section id="novedades" class="simple-section">
-      <div class="container">
-        <h2>Novedades</h2>
-        <p>Productos especiales y recién agregados al catálogo.</p>
-      </div>
-    </section>
+    <section id="nuevo" class="simple-section">
+  <div class="container">
+    <h2>Nuevo</h2>
+    <p>Productos especiales y recién agregados al catálogo.</p>
+    <div id="nuevoGrid" class="product-grid"></div>
+  </div>
+</section>
 
-    <section id="dulces" class="simple-section alt-bg">
-      <div class="container">
-        <h2>Dulces y snacks</h2>
-        <p>Descubre productos importados, curiosos y difíciles de encontrar.</p>
-      </div>
-    </section>
+<section id="dulces" class="simple-section alt-bg">
+  <div class="container">
+    <h2>Dulces y snacks</h2>
+    <p>Descubre productos importados, curiosos y difíciles de encontrar.</p>
+    <div id="dulcesGrid" class="product-grid"></div>
+  </div>
+</section>
 
-    <section id="ofertas" class="simple-section">
-      <div class="container">
-        <h2>Ofertas</h2>
-        <p>Aprovecha piezas seleccionadas con precio especial.</p>
-      </div>
-    </section>
+<section id="hogar" class="simple-section">
+  <div class="container">
+    <h2>Hogar</h2>
+    <p>Artículos especiales para decorar, servir y dar un toque único a tu espacio.</p>
+    <div id="hogarGrid" class="product-grid"></div>
+  </div>
+</section>
 
-    <section id="catalogo" class="catalogo-section">
-      <div class="container">
-        <div class="section-head">
-          <h2>Catálogo</h2>
-          <input type="text" id="searchInput" placeholder="Buscar producto..." />
-        </div>
-
+<section id="ofertas" class="simple-section alt-bg">
+  <div class="container">
+    <h2>Ofertas</h2>
+    <p>Aprovecha piezas seleccionadas con precio especial.</p>
+    <div id="ofertasGrid" class="product-grid"></div>
+  </div>
+</section>
         <div id="productGrid" class="product-grid"></div>
       </div>
     </section>
