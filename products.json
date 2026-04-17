@@ -262,5 +262,41 @@
     "images": [
       "dulces-cheetos-crunchy-hot-1.jpg.jpeg"
     ]
+  },
+  {
+    "id": 23,
+    "name": "Snacks Cheetos Jalapeño Cheddar - 241 g",
+    "price": 180,
+    "category": "Dulces y snacks",
+    "stock": 50,
+    "status": "Disponible",
+    "description": "Botana importada Cheetos Jalapeño Cheddar de 241 g.",
+    "images": [
+      "dulces-cheetos-crunchy-jalapeño-1.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Cheetos XXTRA Flamin' Hot Crunchy Cheese Flavored Snacks - 8.5 oz",
+    "price": 180,
+    "category": "Dulces y snacks",
+    "stock": 50,
+    "status": "Disponible",
+    "description": "Botana importada Cheetos XXTRA Flamin' Hot Crunchy Cheese Flavored Snacks de 8.5 oz.",
+    "images": [
+      "dulces-cheetos-xxtra-hot-1.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Cheetos Crunchy Flamin' Hot sabor a queso y limón - 241 g",
+    "price": 180,
+    "category": "Dulces y snacks",
+    "stock": 50,
+    "status": "Disponible",
+    "description": "Botana importada Cheetos Crunchy Flamin' Hot sabor a queso y limón de 241 g.",
+    "images": [
+      "dulces-cheetos-crunchy-limon-1.jpg"
+    ]
   }
 ]
