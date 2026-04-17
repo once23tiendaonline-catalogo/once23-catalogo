@@ -87,12 +87,12 @@
     "id": 8,
     "name": "Jarrón con forma de bota de vaquera de las Princesas Disney",
     "price": 950,
-    "category": "Nuevo",
+    "category": "hogar",
     "stock": 3,
     "status": "Disponible",
     "description": "Jarrón decorativo con diseño original de Princesas Disney.",
     "images": [
-      "nuevo-jarron-bota-1.jpg"
+      "hogar-jarron-bota-1.jpg"
     ]
   },
   {
